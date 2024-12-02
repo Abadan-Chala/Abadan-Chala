@@ -1,10 +1,13 @@
 <h1 align="center">
+            <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=100&duration=4000&lines=Hi+There!+👋;" />
+        </h1>
+
+<h1 align="center">
             <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=100&duration=4000&lines=Hi+There!+👋;+💥+I'm+Abadanaf+Chala!+🌱;+✨+Software+Engineering+Student!+🎉;+" />
         </h1>
 
 
-<h2 align="center">![image](https://github.com/user-attachments/assets/ae1f1137-9c0d-441e-8984-79da87eff48d)
-I'm an Enthusiastic Web Developer From Ethiopia🌱</h2>
+<h2 align="center">💥 I'm an Enthusiastic Web Developer From Ethiopia🌱</h2>
 <img align="right" alt="Coding" width="600" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZkZGZlY25ka2ZmemliZ2h3MXBlYnNldDR4NGttNzZrcWs4NmNzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abadan-chala&label=Profile%20views&color=0e75b6&style=flat" alt="abadan-chala" /> </p>
 
