@@ -1,5 +1,4 @@
-<h1 align="center">Hi There👋</h1>
-<h1 align="center">👋 I'm Abaden Chala</h1>
+<h1 align="center">Hi There👋 I'm Abaden Chala</h1>
 <h3 align="center">I'm an Enthusiastic Web Developer From Ethiopia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abadan-chala&label=Profile%20views&color=0e75b6&style=flat" alt="abadan-chala" /> </p>
