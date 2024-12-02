@@ -1,3 +1,8 @@
+<h1 align="center">
+            <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=100&duration=4000&lines=Hi+There!+👋;+💥+I'm+Abadanaf+Chala!+💥;+✨+Software+Engineering+Student!+🎉;" />
+        </h1>
+
+
 <h1 align="center">Hi There👋</h1>
 <h1 align="center">👋 I'm Abaden Chala</h1>
 <h3 align="center">I'm an Enthusiastic Web Developer From Ethiopia</h3>
