@@ -1,10 +1,6 @@
 
 <h1 align="center">
-            <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=100&duration=4000&lines=Hi+There!+👋;+💥+I'm+Abadanaf+Chala!+🌱;+✨+Software+Engineering+Student+At+Haramaya+University+🎉;" />
-        </h1>
-
-<h1 align="center">
-            <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=100&duration=4000&lines=💥+ I'm + an + Enthusiastic + Web + Developer + From + Ethiopia +🌱;" />
+            <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=100&duration=4000&lines=Hi+There!+👋;+💥+I'm+Abadanaf+Chala!+🌱;+✨+Software+Engineering+Student+;+At+Haramaya+University+🎉;" />
         </h1>
 
 <h2 align="center">💥 I'm an Enthusiastic Web Developer From Ethiopia🌱</h2>
