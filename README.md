@@ -5,13 +5,15 @@
 
 
 <h1 align="center">💥 I'm an Enthusiastic Web Developer🌱</h1>
-<img align="center" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZkZGZlY25ka2ZmemliZ2h3MXBlYnNldDR4NGttNzZrcWs4NmNzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.webp">
-
-<img align="right" alt="Coding" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZkZGZlY25ka2ZmemliZ2h3MXBlYnNldDR4NGttNzZrcWs4NmNzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.webp">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZkZGZlY25ka2ZmemliZ2h3MXBlYnNldDR4NGttNzZrcWs4NmNzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abadan-chala&label=Profile%20views&color=0e75b6&style=flat" alt="abadan-chala" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abadan-chala" alt="abadan-chala" /></a> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=abadan-chala](https://avatars.githubusercontent.com/u/186631398?v=4
+)" alt="abadan-chala" /></a> </p>
+
 
 - 🔭 I’m Software Engineering Student [@Haramaya University](https://www.haramaya.edu.et/)
 
