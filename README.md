@@ -11,13 +11,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abadan-chala" alt="abadan-chala" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=abadan-chala](https://avatars.githubusercontent.com/u/186631398?v=4
-)" alt="abadan-chala" /></a> </p>
-
 
 - 🔭 I’m Software Engineering Student [@Haramaya University](https://www.haramaya.edu.et/)
 
-- 🌱 I’m currently learning **Sofware Engineering**
+- 🌱 I’m currently specializing on **Full-stack developing**
+  
+- 💥 I’m also interested on **Graphics Design**
 
 - 💬 Ask me about **Bootstrap,React,Tailwind CSS, Laravel...**
 
