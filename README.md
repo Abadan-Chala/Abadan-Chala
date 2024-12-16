@@ -18,7 +18,7 @@
   
 - 💥 I’m also interested on **Graphics Design**
 
-- 💬 Ask me about **Bootstrap,React,Tailwind CSS, Laravel...**
+- 💬 Ask me about **Bootstrap,React,Tailwind CSS, NodeJS and Express**
 
 - 📫 How to reach me **abadanafchala@gmail.com**
 
